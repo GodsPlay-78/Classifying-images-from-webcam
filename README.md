@@ -1,0 +1,2 @@
+# Classifying-images-from-webcam
+In this repo, I have implemented a simple machine learning web application using TensorFlow.js. First I loaded and then used a pretrained MobileNet model for classifying images from webcam.  Then customized the model to classify images into three custom categories.  Be sure to visit js.tensorflow.org for more examples and demos with code to see how you can use TensorFlow.js in your applications.
